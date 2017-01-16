@@ -1,0 +1,5 @@
+/_test/
+*.pyc
+/tmp*
+*.exe.stackdump
+*.stackdump
